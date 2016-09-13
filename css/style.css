@@ -1,0 +1,68 @@
+body.index{
+	font-family: Sans-Serif;
+	color: black;
+	background-image: url(../img/forest.jpg);
+}
+
+body.kapsalon{
+	font-family: Sans-Serif;
+	color: black;
+	background-image: url(../img/keuken.jpg);
+}
+
+body.soep{
+	font-family: Sans-Serif;
+	color: black;
+	background-image: url(../img/keuken.jpg);
+}
+
+body.pasta{
+	font-family: Sans-Serif;
+	color: black;
+	background-image: url(../img/keuken.jpg);
+}
+
+
+
+div.menu{
+	background-color: rgba(255,255,255,0.5); 
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	width: 800px;
+	height: 40px;
+	padding: 12px;
+	text-align: center;
+}
+div.inhoud{
+	width: 800px;
+	height: 1000px;
+	padding-top: 10px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+}
+
+img.kapsalon{
+    margin-left: auto;
+    margin-right: auto;
+    align: center;
+}
+
+img.soep{
+	margin-left: auto;
+    margin-right: auto;
+    align: center;
+}
+
+img.pasta{
+	margin-left: auto;
+    margin-right: auto;
+    align: center;
+}
+
+ul.menu li{
+	display: inline;
+	margin-right: 10px;
+}
